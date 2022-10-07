@@ -1,0 +1,10 @@
+[25-Jun-2022 02:54:54 Europe/Riga] PHP Notice:  file_get_contents(): Content-type not specified assuming application/x-www-form-urlencoded in /home/ivoandco/public_html/email-api/contact.php on line 17
+[26-Jun-2022 09:46:17 Europe/Riga] PHP Notice:  file_get_contents(): Content-type not specified assuming application/x-www-form-urlencoded in /home/ivoandco/public_html/email-api/contact.php on line 17
+[06-Jul-2022 05:58:09 Europe/Riga] PHP Notice:  file_get_contents(): Content-type not specified assuming application/x-www-form-urlencoded in /home/ivoandco/public_html/email-api/contact.php on line 17
+[07-Jul-2022 10:48:29 Europe/Riga] PHP Notice:  file_get_contents(): Content-type not specified assuming application/x-www-form-urlencoded in /home/ivoandco/public_html/email-api/contact.php on line 17
+[07-Jul-2022 17:37:38 Europe/Riga] PHP Notice:  file_get_contents(): Content-type not specified assuming application/x-www-form-urlencoded in /home/ivoandco/public_html/email-api/contact.php on line 17
+[09-Jul-2022 21:54:47 Europe/Riga] PHP Notice:  file_get_contents(): Content-type not specified assuming application/x-www-form-urlencoded in /home/ivoandco/public_html/email-api/contact.php on line 17
+[19-Jul-2022 11:44:37 Europe/Riga] PHP Notice:  file_get_contents(): Content-type not specified assuming application/x-www-form-urlencoded in /home/ivoandco/public_html/email-api/contact.php on line 17
+[19-Jul-2022 12:23:22 Europe/Riga] PHP Notice:  file_get_contents(): Content-type not specified assuming application/x-www-form-urlencoded in /home/ivoandco/public_html/email-api/contact.php on line 17
+[22-Aug-2022 21:22:15 Europe/Riga] PHP Notice:  file_get_contents(): Content-type not specified assuming application/x-www-form-urlencoded in /home/ivoandco/public_html/email-api/contact.php on line 17
+[09-Sep-2022 18:00:08 Europe/Riga] PHP Notice:  file_get_contents(): Content-type not specified assuming application/x-www-form-urlencoded in /home/ivoandco/public_html/email-api/contact.php on line 17
